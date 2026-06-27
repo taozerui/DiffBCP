@@ -1,0 +1,5 @@
+name: ffhq
+head: 100
+root: ./data/ffhq_128.npy
+mask_name: random_mask_obs01
+ratio: 0.05

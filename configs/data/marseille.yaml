@@ -1,0 +1,6 @@
+name: marseille
+image_size: 2048
+head: 100
+root: ./data/marseille_2048.jpg
+mask_name: random_mask_obs01
+ratio: 0.05

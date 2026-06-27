@@ -1,0 +1,5 @@
+name: imagenet
+head: 100
+root: ./data/imagenet_128.npy
+mask_name: random_mask_obs01
+ratio: 0.05

@@ -1,0 +1,6 @@
+name: westerlund
+image_size: 2048
+head: 100
+root: ./data/westerlund_2048.png
+mask_name: random_mask_obs01
+ratio: 0.05
